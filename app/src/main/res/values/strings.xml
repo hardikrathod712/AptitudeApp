@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aptitude App</string>
+    <string name="Message">Welcome to Quiz Page!!</string>
+    <string name="start">START</string>
+</resources>
